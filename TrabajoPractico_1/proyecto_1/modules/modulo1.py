@@ -4,3 +4,7 @@
 print("hola")
 
 print("hola2")
+
+def hola():
+    1+1
+    print("pruint")
